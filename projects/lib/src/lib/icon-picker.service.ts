@@ -9,7 +9,9 @@ import { FaIconLibrary } from '@fortawesome/angular-fontawesome';
 import { fas } from '@fortawesome/free-solid-svg-icons';
 import {PrimeIconsPack} from './pack/prime-icons-pack';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root'
+})
 export class IconPickerService {
   private fa4IconsPack: IconsPack;
   private fa5IconsPack: IconsPack;
