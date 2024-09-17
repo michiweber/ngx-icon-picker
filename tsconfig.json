@@ -19,7 +19,7 @@
       "dom"
     ],
     "paths": {
-      "ngx-icon-picker": [
+      "ngx-icon-picker-18": [
         "dist/lib/lib",
         "dist/lib"
       ]
