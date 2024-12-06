@@ -1,13 +1,13 @@
 {
   "name": "ngx-icon-picker-18",
-  "version": "1.18.7",
+  "version": "1.18.8",
   "dependencies": {
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
     "@angular/common": "^18",
     "@angular/core": "^18",
-    "@fortawesome/angular-fontawesome": ">=0.10.2",
+    "@fortawesome/angular-fontawesome": "=0.15.x",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "primeicons": "^7.0.0"
