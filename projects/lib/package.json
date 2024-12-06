@@ -1,6 +1,6 @@
 {
   "name": "ngx-icon-picker-18",
-  "version": "1.18.8",
+  "version": "1.18.11",
   "dependencies": {
     "tslib": "^2.0.0"
   },

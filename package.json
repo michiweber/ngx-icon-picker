@@ -3,7 +3,7 @@
   "description": "Icon picker widget for Angular (version 16 and newer)",
   "bugs": "https://github.com/michiweber/ngx-icon-picker/issues",
   "license": "MIT",
-  "version": "1.18.8",
+  "version": "1.18.11",
   "scripts": {
     "ng": "ng",
     "lint": "ng lint",
